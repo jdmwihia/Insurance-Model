@@ -59,13 +59,18 @@ NumPy
 Jupyter (to run the notebook)
 
 
-## Sample output
-Year:  1 | VaR Capital:   36,503,309.92 | Mean Capital:  115,591,933.16 
-Year:  2 | VaR Capital:   67,747,771.91 | Mean Capital:  187,129,930.45 
-...
-Year: 50 | VaR Capital: 2,366,968,608.72 | Mean Capital: 8,664,213,904.11 
+## Sample Output
 
-Final Probability of Ruin: 0.2540%
+| Year | VaR Capital (KES) | Mean Capital (KES) |
+|------|-------------------|--------------------|
+| 1 | 36,503,309.92 | 115,591,933.16 |
+| 10 | 282,273,845.96 | 957,509,564.70 |
+| 20 | 647,712,071.95 | 2,361,862,601.64 |
+| 30 | 1,159,515,544.18 | 4,179,766,977.52 |
+| 40 | 1,798,894,031.30 | 6,341,298,826.43 |
+| 50 | 2,366,968,608.72 | 8,664,213,904.11 |
+
+**Final Probability of Ruin:** 0.2540%
 
 ## Next steps
 Replace normal claim frequency with Poisson distribution

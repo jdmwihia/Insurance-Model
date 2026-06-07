@@ -73,8 +73,8 @@ jupyter notebook insuranceModel.ipynb
 **Final Probability of Ruin:** 0.2540%
 
 ## Next steps
-Replace normal claim frequency with Poisson distribution
-Add gamma distribution for claim severity
-Make all parameters configurable via dataclass
-Add unit tests for each component
-Generate visualizations of capital paths distribution
+- Replace normal claim frequency with Poisson distribution
+- Add gamma distribution for claim severity
+- Make all parameters configurable via dataclass
+- Add unit tests for each component
+- Generate visualizations of capital paths distribution

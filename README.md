@@ -54,9 +54,9 @@ jupyter notebook insuranceModel.ipynb
 ```
 
 ### Dependencies
-Python 3.10+
-NumPy
-Jupyter (to run the notebook)
+- Python 3.10+
+- NumPy
+- Jupyter (to run the notebook)
 
 
 ## Sample Output
